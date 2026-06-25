@@ -1,0 +1,12 @@
+# Environment variables - NEVER push to GitHub
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
